@@ -1,9 +1,8 @@
 Frontend stuff
 ========================
 
-A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 
-
+- [Inspiration](#inspiration)
 - [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
@@ -24,6 +23,18 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Databases](#databases)
 - [Social](#social)
 
+### Inspiration
+- [Awwards](http://www.awwwards.com) - The awards for design, creativity and innovation
+- [MaterialUp](http://www.materialup.com) - Daily material design inspiration.
+- [Site Inspire](http://www.siteinspire.com/) - Web design inspiration.
+- [Land-Book](http://land-book.com/) - Product landing pages gallery.
+- [Dribbble](https://dribbble.com/) - Show and tell for designers.
+- [Behance](https://www.behance.net) - Showcase & discover creative work.
+- [Pttrns](http://www.pttrns.com/) - Mobile user interface patterns.
+- [Flat UI Design](https://www.pinterest.com/warmarc/flat-ui-design/) - Useful board I discovered thanks to Erik.
+- [One Page Love](https://onepagelove.com/) - Resource for one page website inspiration.
+- [Agile Designers](http://agiledesigners.com/) - Best resources for designers & developers.
+- [Niice](https://niice.co/) - A search engine with taste.
 
 ### UI Frameworks
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
